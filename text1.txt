@@ -1,1 +1,2 @@
 This is my first file for git practice
+New branch is created with name
